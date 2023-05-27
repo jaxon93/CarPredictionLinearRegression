@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+gradio
+Flask
+argparse
+gunicorn
+rq

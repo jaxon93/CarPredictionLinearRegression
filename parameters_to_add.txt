@@ -1,0 +1,16 @@
+Model parameters: 
+Random Forest Regressor : 
+	Best score:  0.9169612547200082
+	Best: params {'bootstrap': False, 'max_depth': 15, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 100}
+
+Lasso : 
+	Best score:  0.9051185423524084
+	Best: params {'alpha': 0.005, 'fit_intercept': True}
+
+Ridge : 
+	Best score:  0.9138199794937979
+	Best: params {'alpha': 10, 'fit_intercept': True}
+
+XGBoost : 
+	Best score:  0.8876548213342995
+	Best: params {'bootstrap': True, 'max_depth': 2, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 100}

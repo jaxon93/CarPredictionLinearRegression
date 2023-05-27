@@ -1,0 +1,22 @@
+Untuned metrics for:  RandomForestRegressor
+R2_Score:  0.9254
+RMSE:  2057.44
+MAE:  1375.75
+
+
+Untuned metrics for:  Lasso
+R2_Score:  0.9305
+RMSE:  1767.75
+MAE:  1195.47
+
+
+Untuned metrics for:  Ridge
+R2_Score:  0.8964
+RMSE:  2570.96
+MAE:  1489.03
+
+
+Untuned metrics for:  XGBoost
+R2_Score:  0.9066
+RMSE:  2413.8
+MAE:  1583.46
